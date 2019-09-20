@@ -5,4 +5,9 @@ A demo Python project that uses NASA data to find closest meteor landing locatio
 
 This project requires python 3 and requests package
 
-`python find_meteors.py`
+First install pipenv.
+e.g. `pip install pipenv`
+
+Then
+
+`pipenv run python find_meteors.py`
